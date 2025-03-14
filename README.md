@@ -16,3 +16,18 @@ The **Medical System Data Organizer** is a Shell Script-based system designed to
 ✔ **Export Medical Records to CSV** – Save medical data to a CSV file for external use.  
 ✔ **Import Medical Records from CSV** – Load records from an existing CSV file.  
 
+## Example Usage
+
+To run the program, provide the input files attached and Run the main.sh file :
+
+<div align="center">
+ <img src="menu.png" alt="menu" width="600"/>
+</div>
+
+
+## Contact
+
+For any inquiries, reach out via:
+
+- Email: [miar.taweel04@gmail.com](mailto\:miar.taweel04@gmail.com)
+- GitHub: [miarTaweel](https://github.com/miarTaweel)
